@@ -18,7 +18,7 @@
 
 ## 📝 How It Works
 
-1. The system continuously monitors the vehicle status.
+1. The system continuously monitors the vehicle's current status.
 2. On detecting a crash, it:
    - Captures dash cam footage.
    - Uploads the footage to Google Drive.
